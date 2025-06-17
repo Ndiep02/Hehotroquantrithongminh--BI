@@ -2,8 +2,6 @@
 This is a shared github for us to work together
 
 We provide code part for TelcoCustomer data, which can be found on Kaggle, following this link 
-
-LET COPPY THIS AND CHOSE A NEW TAB TO OPEN IT
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 This project focuses on predicting customer churn (i.e., whether a customer will leave a telecom company) using machine learning techniques. 
 
